@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710596086 source:d:\my problem solving\number into sequence\main.cpp
+	<iostream>
+	<vector>
+

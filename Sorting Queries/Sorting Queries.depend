@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703534450 source:d:\my problem solving\sorting queries\main.cpp
+	<iostream>
+	<deque>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703275574 source:d:\my problem solving\jzzhu and children\main.cpp
+	<iostream>
+	<deque>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706541552 source:d:\my problem solving\truckloads\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+

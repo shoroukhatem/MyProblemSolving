@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710796409 source:d:\my problem solving\ almost prime\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

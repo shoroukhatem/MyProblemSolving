@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702496328 source:d:\my problem solving\palindrome with leading zeros\main.cpp
+	<algorithm>
+	<iostream>
+	<string>
+

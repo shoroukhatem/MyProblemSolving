@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708713228 source:d:\my problem solving\thorns and coins\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

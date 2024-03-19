@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705336299 source:d:\my problem solving\ counting kangaroos is fun\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

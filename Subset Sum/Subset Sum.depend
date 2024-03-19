@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709381288 source:d:\my problem solving\subset sum\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

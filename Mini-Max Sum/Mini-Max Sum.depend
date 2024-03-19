@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701087718 source:d:\my problem solving\mini-max sum\main.cpp
+	<iostream>
+	<limits.h>
+

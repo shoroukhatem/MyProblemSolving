@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709576859 source:d:\my problem solving\back to the 8-queens\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

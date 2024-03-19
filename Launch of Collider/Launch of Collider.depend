@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708119095 source:d:\my problem solving\launch of collider\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstring>
+	<string.h>
+	<algorithm>
+

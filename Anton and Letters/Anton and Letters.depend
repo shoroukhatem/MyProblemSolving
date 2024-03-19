@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703437968 source:d:\my problem solving\anton and letters\main.cpp
+	<iostream>
+	<set>
+	<bits/stdc++.h>
+

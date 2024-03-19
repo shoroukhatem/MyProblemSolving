@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703276174 source:d:\my problem solving\balanced brackets\main.cpp
+	<iostream>
+	<stack>
+

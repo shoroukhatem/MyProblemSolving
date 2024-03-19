@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703442716 source:d:\my problem solving\chat order\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

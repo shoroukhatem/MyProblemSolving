@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710711253 source:d:\my problem solving\largest prime factor\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

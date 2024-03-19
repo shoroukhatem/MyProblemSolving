@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588480816 source:d:\codeforces\phoenix and balance\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+

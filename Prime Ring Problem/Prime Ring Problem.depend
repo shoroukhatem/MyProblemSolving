@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709495721 source:d:\my problem solving\prime ring problem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

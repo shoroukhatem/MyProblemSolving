@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703436328 source:d:\my problem solving\registration system\main.cpp
+	<iostream>
+	<set>
+	<string>
+

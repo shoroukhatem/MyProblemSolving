@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709474093 source:d:\my problem solving\unlucky ticket\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

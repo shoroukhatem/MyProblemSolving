@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701607131 source:d:\my problem solving\translation\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

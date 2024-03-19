@@ -1,0 +1,3 @@
+﻿  Little Elephant and Bits.cpp
+D:\My Problem Solving\Little Elephant and Bits\Little Elephant and Bits.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Little Elephant and Bits.vcxproj -> D:\My Problem Solving\Little Elephant and Bits\x64\Debug\Little Elephant and Bits.exe

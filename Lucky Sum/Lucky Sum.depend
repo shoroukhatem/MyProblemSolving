@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709470324 source:d:\my problem solving\lucky sum\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

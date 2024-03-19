@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709002576 source:d:\my problem solving\taxi\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
